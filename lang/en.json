@@ -1,0 +1,8 @@
+{
+  "eth": {
+    "attacks": {
+      "physic": "Physic",
+      "magic": "magic"
+    }
+  }
+}
